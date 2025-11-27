@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Ling-Ling — Translation</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <h1>リンリン・シャオ</h1>
+
+    <div class="card">
+        <div class="section-title">UA：計算</div>
+        <div class="codebox">
+「＋」は必須条件ではない。
+パターンを使用するとき、「＋」マスにある弾の数字を合計し、以下を行う：
+
+6〜9： このパターンの外にある弾を最大2つクリアする。
+10〜12： このパターンの外にある弾を最大3つクリアする。
+13以上： このパターンの内にある弾を最大3つクリアする。
+        </div>
+    </div>
+
+    <div class="card">
+        <div class="section-title">Abilities</div>
+        <div class="codebox">
+（1）弾を左・右・下に1マス移動する。
+（2）パターンを1枚引く。
+（2）弾をその数字と同じ数だけ、1つの方向に移動する。
+（1）次に使うパターンの合計値に+1する。
+（★）アクションポイントを1得る。
+        </div>
+    </div>
+
+</div>
+
+</body>
+</html>
