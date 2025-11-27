@@ -4,4 +4,5 @@ williamsga555.github.io/
 │ style.css
 └── characters/
       Sora.html
+      Adelheid.html
       (others will go here)
