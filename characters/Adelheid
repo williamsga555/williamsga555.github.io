@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Adelheid — Translation</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <h1>アーデルハイド・ベッケンバウアー</h1>
+
+    <div class="card">
+        <div class="section-title">UA：作曲</div>
+        <div class="codebox">
+視界内（Sight）の裏向きの弾は、すべての色を持ち、数字と星を持たない。
+        </div>
+    </div>
+
+    <div class="card">
+        <div class="section-title">Abilities</div>
+        <div class="codebox">
+(1) 弾を左・右・下に1マス移動する。
+(2) パターンを1枚引く。
+(1) 弾を斜め方向に1マス移動する。
+(★) 視界内（Sight）の弾1つを裏向きにする。
+(★) アクションポイントを１得る。
+        </div>
+    </div>
+
+</div>
+
+</body>
+</html>
