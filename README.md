@@ -4,5 +4,6 @@ williamsga555.github.io/
 │ style.css
 └── characters/
       Adelheid.html
+      Ekolu.html
       Sora.html
       (others will go here)
